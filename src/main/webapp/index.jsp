@@ -2,6 +2,6 @@
 
 <html> 
 
-<h1> WELCOME TO MIND CIRCUIT , WE DONT JUST TEACH , WE ALSO BUILD PEOPLE </h1> 
+<h1> This is kalyan and i tried deploying .war file in tomcat </h1> 
 
 </html>
